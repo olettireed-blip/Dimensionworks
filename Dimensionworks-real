@@ -1,0 +1,19 @@
+# Dimensionworks 3D Website
+
+This is your ready-to-deploy website for Dimensionworks 3D.
+
+## What's included
+- index.html → full website (with Venmo QR code embedded)
+- venmo_qr.png → your Venmo QR code (replace with your own if needed)
+- (Place your logo as logo.png in the same folder)
+
+## How to deploy on GitHub Pages
+1. Go to https://github.com and create a new repository (public).
+2. Upload `index.html`, `logo.png`, and `venmo_qr.png` into the repo.
+3. Go to Settings → Pages → enable GitHub Pages from the main branch root.
+4. Your site will be live at https://your-username.github.io/repo-name/
+
+## Payment setup
+- **PayPal**: Works in sandbox. Replace `client-id=sb` in the script with your real client ID for production.
+- **Venmo**: Replace `@YourVenmoUsername` in the script with your real Venmo handle. The QR code image will also need updating.
+- **Manual Email**: Sends order details to olettireed@gmail.com.
